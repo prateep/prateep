@@ -14,4 +14,4 @@ The same is true for problem-solving coding skills.
 ---
 
 ## Spring boot projects
-  - [Spring Boot, MySQL, JPA, Hibernate Restful CRUD API](https://github.com/prateep/Springboot-Basic-CRUD-RestFul-API-Mysql-JPA-Hibernete.git)
+  - [Basic Spring Boot, MySQL, JPA, Hibernate Restful CRUD API](https://github.com/prateep/Springboot-Basic-CRUD-RestFul-API-Mysql-JPA-Hibernete.git)
