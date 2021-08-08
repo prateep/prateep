@@ -10,7 +10,8 @@ The same is true for problem-solving coding skills.
 #### Basics, Greedy and Bit Manipulation
   - Reverse an array
   - Sum of Digits
-  - Check if a Given String is Palindrome
-  
-#### Spring boot projects
+  - Check if a Given String is Palindrome  
+---
+
+## Spring boot projects
   - [Spring Boot, MySQL, JPA, Hibernate Restful CRUD API](https://github.com/prateep/Springboot-Basic-CRUD-RestFul-API-Mysql-JPA-Hibernete.git)
