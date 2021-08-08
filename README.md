@@ -1,7 +1,7 @@
 ## About me.
 I have a passion for learning and sharing my knowledge with others a public as possible. 
 
-## Problem Solving (Algorithm) with JAVA
+### Problem Solving (Algorithm) with JAVA
 I think the knife works great when sharpened.
 The same is true for problem-solving coding skills.
   
